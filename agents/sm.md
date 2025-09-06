@@ -2,7 +2,7 @@
 description: Scrum Master — facilitation and process improvement
 mode: subagent
 model: gpt-4.1
-temperature: 0.2
+temperature: 0.3
 tools:
   write: false
   edit: true

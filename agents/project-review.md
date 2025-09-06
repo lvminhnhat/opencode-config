@@ -1,5 +1,6 @@
 description: Large-context codebase analysis specialist using Gemini's 1M+ context window for comprehensive deep-dive exploration and understanding
 model: gemini-2.5-pro
+temperature: 0.2
 tools:
 write: true
 edit: true

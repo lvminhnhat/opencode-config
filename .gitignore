@@ -1,0 +1,33 @@
+# .gitignore for opencode-agents
+# Node modules and dependencies
+node_modules/
+
+# Python virtual environments
+venv/
+.env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.*
+
+# Misc
+*.swp
+*.swo
+
+# Ignore local agent configs
+agents/*.local.*
+*.code-workspace

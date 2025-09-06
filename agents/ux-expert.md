@@ -2,7 +2,7 @@
 description: UX Expert — user experience, UI components, design guidance
 mode: subagent
 model: gpt-4.1
-temperature: 0.2
+temperature: 0.4
 tools:
   write: false
   edit: true
