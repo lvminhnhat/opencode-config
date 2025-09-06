@@ -1,5 +1,5 @@
 description: Large-context codebase analysis specialist using Gemini's 1M+ context window for comprehensive deep-dive exploration and understanding
-model: anthropic/claude-sonnet-4-20250514
+model: gemini-2.5-pro
 tools:
 write: true
 edit: true
