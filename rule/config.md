@@ -1,7 +1,15 @@
 ---
 description: Rules from the user that agents must follow
 globs:
-alwaysApply: true
+  alwaysApply: true
 ---
 
-- Language: Use Vietnamese when interacting with the user or when writing documentation. Use English when writing code, searching for information, or interacting with other agents.
+# Rules
+
+## Language
+
+- **Interaction with user**: Vietnamese
+- **Code, search, inter-agent communication**: English
+- **Documentation**:
+  - Headings, structure, metadata: English
+  - Content/body: **Vietnamese**
